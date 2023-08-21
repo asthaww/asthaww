@@ -15,7 +15,7 @@
 
 - 💬 Ask me anything, I will be more than happy to help :D
 
-- ⚡ Fun fact ** I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains<3**
+- ⚡ Fun fact ** I thoroughly enjoy engaging with individuals and gaining insight into their personal journeys. This helps me enrich my perspective and widens my understanding of diverse viewpoints across various domains.<3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
