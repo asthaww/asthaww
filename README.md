@@ -1,16 +1,21 @@
-
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 <h1 align="center"> नमस्ते , I'm Astha Mishra</h1>
-<h3 align="center">A beginner in the world of coding</h3>
+<h3 align="center">An amateur trying to work stuff out</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asthaww&label=Profile%20views&color=0e75b6&style=flat" alt="asthaww" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asthaww" alt="asthaww" /></a> </p> 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-     
+
+
+
+
+
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/userupload/7081683/file/original-9c605f4d487a4432e502ec3bb851e440.gif">
                                
+- 📫 How to reach me **astha0795@gmail.com**
 
-- ⚡ Fun fact **I am an active learner<3**
+- 💬 Ask me anything, I will be more than happy to help :D
+
+- ⚡ Fun fact ** I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains<3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthaww&show_icons=true&locale=en&layout=compact" alt="asthaww" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthaww&show_icons=true&locale=en" alt="asthaww" /></p>
+
